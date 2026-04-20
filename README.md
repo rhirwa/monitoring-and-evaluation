@@ -371,4 +371,4 @@ The worst starting point is trying to automate everything at once. M&E automatio
 
 If your organization is dealing with any of the problems described in this guide, we would like to understand your specific situation — not pitch you a generic product.
 
-[Start a conversation](https://imhotep.systems/contact) · [Learn about Forge](https://imhotep.systems/contact)
+[Start a conversation](https://imhotep.systems/contact) · [Learn about Forge](https://imhotep.systems/forge)
